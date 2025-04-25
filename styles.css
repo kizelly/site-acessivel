@@ -8,7 +8,7 @@
     --alto-contraste-link: #ffd700;
 }
 
-body {
+body {"
     font-size: 1rem;
     font-family: 'Montserrat';
 }
@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--laranja-claro)";
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -90,7 +90,7 @@ section {
     align-items: center;
     justify-content: center;
     position: relative;
-    z-index: 1;
+    z-index: 1;"
     /* Garante que o conteúdo fica acima das imagens do background */
 }
 
@@ -108,7 +108,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/10742448-fundo-preto-e-vermelho-com-glitter-lindo-brilho-feito-de-gratis-vetor.jpg') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
